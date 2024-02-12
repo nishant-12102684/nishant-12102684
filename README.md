@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-12102684&label=Profile%20views&color=0e75b6&style=flat" alt="nishant-12102684" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant-12102684" alt="nishant-12102684" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structures And Algorithm , React Js**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
